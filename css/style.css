@@ -250,3 +250,30 @@
 .upper-footer p{
     font-size: 14px;
 }
+.line-div{
+    width: 100%;
+    height: 1px;
+    border: 1px solid rgb(222, 218, 218);
+     margin: 20px; 
+    overflow: hidden;
+}
+.fa-truck, .fa-location-dot, .fa-money-bill, .fa-rotate-left{
+    color: #f18bb4;
+
+}
+
+.footer{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #f181ae;
+    color: white;
+    width: 100%;
+}
+
+.social_link{
+    border: 1px solid white;
+    background-color: #f181ae;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 20px 5px 10px 10px;
+}
